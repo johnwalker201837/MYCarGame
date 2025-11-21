@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Spire: 3D Card Battler",
+  "description": "A 3D turn-based card game inspired by Slay the Spire. Features dynamic arc-based card dealing, 3D CSS transformations, and Gemini-powered battle commentary.",
+  "requestFramePermissions": []
+}
